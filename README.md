@@ -1,8 +1,21 @@
+# Project Goal
+This project was created thinking in to show some ways to declare a variable name with the most popular ways:
++ Camelcase
++ Kebabcase
++ Pascalcase
++ Snakecase
+
+# Application preview
+![combine-words](https://user-images.githubusercontent.com/51720161/149503072-9708bde7-dc75-43ef-9bd9-c82dce112f34.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+### `npm install`
+In the beginning you have to run that code to install all the dependencies and the node_modules
 
 In the project directory, you can run:
 
